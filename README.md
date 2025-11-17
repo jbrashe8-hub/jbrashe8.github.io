@@ -1,2 +1,2 @@
 # jbrashe8.github.io
-This is my first repository.
+This repository contains files for CIS300 Project Assignments.
